@@ -52,7 +52,8 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: 'center', sm: 'flex-start' }}
             >
               <Typography variant="subtitle1" gutterBottom>
-                Software Developer | Software Engineer based in Peru
+                Software Developer | Software Engineer based in Peru <br />
+                Contact me: poschuler@gmail.com
                 {/* Better an{' '}
                 <Box fontWeight="fontWeightMedium" display="inline">
                   oops
