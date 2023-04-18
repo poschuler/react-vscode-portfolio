@@ -16,9 +16,7 @@ export const links = [
   {
     index: 2,
     title: 'Contact me via email',
-    href: `mailto:poschuler@gmail.com?subject=${encodeURIComponent(
-      'Contact from Website'
-    )}`,
+    href: `mailto:poschuler@gmail.com`,
     icon: <FaEnvelope />,
   },
 ];
