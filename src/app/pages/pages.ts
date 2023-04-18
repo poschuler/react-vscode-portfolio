@@ -5,5 +5,5 @@ export const pages = [
   { index: 3, name: 'education.md', route: '/education' },
   { index: 4, name: 'projects.md', route: '/projects' },
   { index: 5, name: 'certificates.md', route: '/certificates' },
-  { index: 6, name: 'accomplishments.md', route: '/accomplishments' },
+  { index: 6, name: 'languages.md', route: '/laguages' },
 ];
