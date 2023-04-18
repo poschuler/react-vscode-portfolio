@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/poschuler/react-vscode-portfolio/static/js/main.7cca01f9.js",
+    "static/js/787.df5e1d3a.chunk.js": "/poschuler/react-vscode-portfolio/static/js/787.df5e1d3a.chunk.js",
+    "static/media/circle.png": "/poschuler/react-vscode-portfolio/static/media/circle.28cbb79b5eeb6d8cbd41.png",
+    "index.html": "/poschuler/react-vscode-portfolio/index.html",
+    "main.7cca01f9.js.map": "/poschuler/react-vscode-portfolio/static/js/main.7cca01f9.js.map",
+    "787.df5e1d3a.chunk.js.map": "/poschuler/react-vscode-portfolio/static/js/787.df5e1d3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7cca01f9.js"
+  ]
+}
